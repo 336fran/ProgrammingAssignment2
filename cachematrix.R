@@ -29,3 +29,5 @@ cacheSolve <- function(lm1, ...) {
     }
     inv
 }
+
+
